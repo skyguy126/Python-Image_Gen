@@ -1,0 +1,2 @@
+call image.py
+PAUSE
